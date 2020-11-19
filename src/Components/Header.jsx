@@ -4,8 +4,8 @@ const Header = () => {
   return (
     <div className="header">
       <h1>PhotoShare</h1>
-      <h2>Your Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h2>Your Album</h2>
+      <p>Upload images to this album</p>
     </div>
   );
 };
