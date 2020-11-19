@@ -1,5 +1,5 @@
 
-# [demo](https://photoshare-arp.netlify.app/) of the app.
+# [Demo](https://photoshare-arp.netlify.app/) of the app.
 
 # Getting Started with Create React App
 
